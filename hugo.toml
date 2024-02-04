@@ -14,7 +14,7 @@ image = "img/kalmas.jpeg"
 links = [
     { linkedin = "https://www.linkedin.com/in/kylealmas" },
     { github = "https://github.com/kalmas" },
-    { link = { href = "https://github.com/kalmas/resume/blob/main/kyle-almas.pdf", text = "Resume" } },
+    { resume = { href = "https://github.com/kalmas/resume/blob/main/kyle-almas.pdf", text = "Resume" } },
     { stack-overflow = "https://stackoverflow.com/users/1361980/kalmas" },
     { instagram = "https://www.instagram.com/kawlmas" },
     { email = "mailto:kylealmas@gmail.com" },
