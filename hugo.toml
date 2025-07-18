@@ -6,7 +6,8 @@ title = "Kyle Almas"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
-[author]
+[params]
+[params.author]
 name = "Kyle Almas"
 headline = "Software Engineer"
 image = "img/kalmas.jpeg"
@@ -14,7 +15,7 @@ image = "img/kalmas.jpeg"
 links = [
     { linkedin = "https://www.linkedin.com/in/kylealmas" },
     { github = "https://github.com/kalmas" },
-    { resume = { href = "https://github.com/kalmas/resume/blob/main/kyle-almas.pdf", text = "Resume" } },
+    { resume = { href = "bin/Kyle_Almas.pdf", text = "Resume" } },
     { stack-overflow = "https://stackoverflow.com/users/1361980/kalmas" },
     { instagram = "https://www.instagram.com/kawlmas" },
     { email = "mailto:kylealmas@gmail.com" },
