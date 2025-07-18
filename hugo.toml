@@ -7,7 +7,7 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params]
-[params.author]
+[author]
 name = "Kyle Almas"
 headline = "Software Engineer"
 image = "img/kalmas.jpeg"
