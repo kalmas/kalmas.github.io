@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { linkedin = "https://www.linkedin.com/in/kylealmas" },
     { github = "https://github.com/kalmas" },
-    { resume = { href = "bin/Kyle_Almas.pdf", text = "Resume" } },
+    { resume = { href = "doc/Kyle_Almas_Resume.pdf", text = "Resume" } },
     { stack-overflow = "https://stackoverflow.com/users/1361980/kalmas" },
     { instagram = "https://www.instagram.com/kawlmas" },
     { email = "mailto:kylealmas@gmail.com" },
