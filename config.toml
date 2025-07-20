@@ -6,22 +6,21 @@ title = "Kyle Almas"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
-[params]
-[author]
-name = "Kyle Almas"
-headline = "Software Engineer"
-image = "img/kalmas.jpeg"
+[services]
+  [services.googleAnalytics]
+    id = "G-3B12G4MQVN"
 
-links = [
+[params.author]
+  name = "Kyle Almas"
+  headline = "Software Engineer"
+  image = "img/kalmas.jpeg"
+
+  links = [
     { linkedin = "https://www.linkedin.com/in/kylealmas" },
     { github = "https://github.com/kalmas" },
     { resume = { href = "bin/Kyle_Almas.pdf", text = "Resume" } },
     { stack-overflow = "https://stackoverflow.com/users/1361980/kalmas" },
     { instagram = "https://www.instagram.com/kawlmas" },
     { email = "mailto:kylealmas@gmail.com" },
-]
+  ]
 
-[module]
-[module.hugoVersion]
-extended = false
-min = "0.86.1"

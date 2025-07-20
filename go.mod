@@ -1,5 +1,5 @@
 module github.com/kalmas/kalmas.github.io
 
-go 1.21
+go 1.21.6
 
-require github.com/jpanther/lynx v1.3.1 // indirect
+require github.com/jpanther/lynx v1.4.0 // indirect
